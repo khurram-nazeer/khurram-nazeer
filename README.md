@@ -7,7 +7,7 @@ Numbers tell a story, and my goal is to translate that story into actionable bus
 ### What I Do
 * **Data Structuring & Cleaning:** Currently mastering the foundational elements of data manipulation, ensuring accuracy and integrity using Advanced Excel.
 * **Practical Problem Solving:** Working on real-world data challenges, such as standardizing complex date columns and formatting messy raw datasets to make them analysis-ready.
-* **My Trajectory:** Building a strong analytical roadmap. While I am perfecting my spreadsheet skills today, my next clear steps involve transitioning to Database Management Systems (DBMS) and Python—specifically targeting financial data analysis with libraries like yfinance and NumPy.
+* **My Trajectory:** Building a strong analytical roadmap. While I am perfecting my spreadsheet skills today, my next clear steps involve transitioning to Database Management Systems (DBMS) and Python specifically targeting financial data analysis with libraries like yfinance and NumPy.
 
 ### Connect With Me
 * **Email:** kingsman0647@gmail.com
